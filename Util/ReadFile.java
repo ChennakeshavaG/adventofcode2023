@@ -8,8 +8,7 @@ import java.io.IOException;
 
 public class ReadFile {
     public static void main(String[] args) throws FileNotFoundException, IOException {
-        File file = new File(
-                System.getProperty("user.dir") + "\\adventofcode\\Day ${day}\\Part ${part}" + "\\input.txt");
+        File file = new File(System.getProperty("user.dir") + "\\adventofcode\\Day ${day}\\Part ${part}" + "\\input.txt");
         try (BufferedReader br = new BufferedReader(new FileReader(file))) {
             for (String line; (line = br.readLine()) != null;) {
                 if (line.isEmpty()) {
