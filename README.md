@@ -13,6 +13,7 @@ I reached my limit on Day 12. Happy to see myself reach halfway. Will learn more
 Will keep following challenges and community. One of the best things i stumbled in my life.
 
 My personal learnings during this challenge:
+
 1.) I can do DSA problems in Java.
 
 2.) I have a lot to improve on my speed and ability to understand problem and code quickly.
